@@ -2,5 +2,5 @@
 
 ### Welcome to my Github profile.
 
-Noob Java Script
-Contact: fafidw@gmail.com
+- Noob Java Script
+- Contact: fafidw@gmail.com
